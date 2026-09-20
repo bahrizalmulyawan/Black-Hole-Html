@@ -336,7 +336,9 @@ MIT License
 
 Jika menggunakan library atau asset pihak ketiga, ikuti license masing-masing dependency.
 
----
+--
+live demo
+https://bahrizalmulyawan.github.io/interstellar/blackhole.html
 
 ## 🌌 Selamat Bereksperimen!
 
