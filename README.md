@@ -1,6 +1,6 @@
-# 🌌 Kerr Black Hole — 3D Gravitational Lensing
+# 🌌 Interstellar Black Hole — 3D Gravitational Lensing
 
-Simulasi **Kerr Black Hole** berbasis HTML, WebGL, GLSL Shader, dan Three.js.
+Simulasi ** Interstellar Black Hole** berbasis HTML, WebGL, GLSL Shader, dan Three.js.
 
 Fitur:
 - 🕳️ Black-hole shadow berbentuk bulat
@@ -22,7 +22,7 @@ Fitur:
 ## 📁 Struktur Project
 
 ```text
-kerr-black-hole/
+black-hole-html/
 ├── index.html
 └── README.md
 ```
@@ -91,7 +91,7 @@ https://github.com/bahrizalmulyawa /black-hole-html
 Setelah fork:
 
 ```bash
-git clone https://github.com/USERNAME-KAMU/black-hole-html.git
+git clone https://github.com/bahrizalmulyawan/black-hole-html.git
 ```
 
 Masuk ke folder:
@@ -119,7 +119,7 @@ http://localhost:8000
 Tambahkan repository original sebagai upstream:
 
 ```bash
-git remote add upstream https://github.com/USERNAME-ORIGINAL/kerr-black-hole.git
+git remote add upstream https://github.com/bahrizalmulyawan/black-hole-html.git
 ```
 
 Cek:
