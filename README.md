@@ -81,7 +81,7 @@ http://localhost:8000
 Contoh:
 
 ```text
-https://github.com/USERNAME-KAMU/kerr-black-hole
+https://github.com/bahrizalmulyawa /black-hole-html
 ```
 
 ---
@@ -91,13 +91,13 @@ https://github.com/USERNAME-KAMU/kerr-black-hole
 Setelah fork:
 
 ```bash
-git clone https://github.com/USERNAME-KAMU/kerr-black-hole.git
+git clone https://github.com/USERNAME-KAMU/black-hole-html.git
 ```
 
 Masuk ke folder:
 
 ```bash
-cd kerr-black-hole
+cd black-hole-html
 ```
 
 Jalankan:
