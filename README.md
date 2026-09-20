@@ -1,6 +1,6 @@
 # 🌌 Interstellar Black Hole — 3D Gravitational Lensing
 
-Simulasi ** Interstellar Black Hole** berbasis HTML, WebGL, GLSL Shader, dan Three.js.
+Simulasi **Interstellar Black Hole** berbasis HTML, WebGL, GLSL Shader, dan Three.js.
 
 Fitur:
 - 🕳️ Black-hole shadow berbentuk bulat
