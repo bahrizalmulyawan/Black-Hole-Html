@@ -324,17 +324,8 @@ Pastikan simulasi dan kontrol mouse/touch tetap berfungsi sebelum membuat Pull R
 
 ---
 
-# 📜 License
 
-Tambahkan license sesuai kebutuhan project.
 
-Contoh:
-
-```text
-MIT License
-```
-
-Jika menggunakan library atau asset pihak ketiga, ikuti license masing-masing dependency.
 
 --
 live demo
