@@ -284,46 +284,6 @@ URL akan berbentuk:
 https://USERNAME.github.io/kerr-black-hole/
 ```
 
----
-
-# 🔧 Development
-
-Setelah melakukan perubahan:
-
-```bash
-git add .
-git commit -m "Update black hole simulation"
-git push origin main
-```
-
----
-
-# 🤝 Contributing
-
-Pull Request dipersilakan.
-
-Workflow:
-
-```text
-Fork
-  ↓
-Clone
-  ↓
-Edit
-  ↓
-Test
-  ↓
-Commit
-  ↓
-Push
-  ↓
-Pull Request
-```
-
-Pastikan simulasi dan kontrol mouse/touch tetap berfungsi sebelum membuat Pull Request.
-
----
-
 
 
 
