@@ -281,7 +281,7 @@ Klik **Save**.
 URL akan berbentuk:
 
 ```text
-https://USERNAME.github.io/kerr-black-hole/
+https://USERNAME.github.io/black-hole-html/
 ```
 
 
