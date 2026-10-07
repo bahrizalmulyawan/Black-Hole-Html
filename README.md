@@ -244,45 +244,7 @@ https://cdn.jsdelivr.net/npm/three@0.168.0/
 
 ---
 
-# 🌐 Deploy ke GitHub Pages
 
-Push project:
-
-```bash
-git add .
-git commit -m "Initial release"
-git push origin main
-```
-
-Kemudian buka:
-
-**Settings → Pages**
-
-Pilih:
-
-```text
-Deploy from a branch
-```
-
-Branch:
-
-```text
-main
-```
-
-Folder:
-
-```text
-/ (root)
-```
-
-Klik **Save**.
-
-URL akan berbentuk:
-
-```text
-https://USERNAME.github.io/black-hole-html/
-```
 
 
 
