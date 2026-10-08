@@ -250,8 +250,10 @@ https://cdn.jsdelivr.net/npm/three@0.168.0/
 
 
 --
-live demo
+# live demo
 https://bahrizalmulyawan.github.io/interstellar/blackhole.html
+# Revisi 2
+https://bahrizalmulyawan.github.io/interstellar/Blackholev2.html
 
 ## 🌌 Selamat Bereksperimen!
 
